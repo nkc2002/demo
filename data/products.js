@@ -91,7 +91,7 @@ var list_products = [{
     },
     "masp": "Nok0"
 }, {
-    "name": "Samsung Galaxy A8+ (2018)",
+    "name": "Samsung Galaxy A8+",
     "company": "Samsung",
     "img": "img/products/samsung-galaxy-a8-plus-2018-gold-600x600.jpg",
     "price": "11.990.000",
@@ -183,7 +183,7 @@ var list_products = [{
     },
     "masp": "Sam2"
 }, {
-    "name": "iPad 2018 Wifi 32GB",
+    "name": "iPad Wifi 32GB",
     "company": "Apple",
     "img": "img/products/ipad-wifi-32gb-2018-thumb-600x600.jpg",
     "price": "8.990.000",
@@ -436,7 +436,7 @@ var list_products = [{
     },
     "masp": "Hua1"
 }, {
-    "name": "Huawei Y5 2017",
+    "name": "Huawei Y5",
     "company": "Huawei",
     "img": "img/products/huawei-y5-2017-300x300.jpg",
     "price": "1.990.000",
@@ -482,7 +482,7 @@ var list_products = [{
     },
     "masp": "Nok1"
 }, {
-    "name": "Samsung Galaxy A7 (2018)",
+    "name": "Samsung Galaxy A7",
     "company": "Samsung",
     "img": "https://cdn.tgdd.vn/Products/Images/42/194327/samsung-galaxy-a7-2018-128gb-black-400x400.jpg",
     "price": "8.990.000",
